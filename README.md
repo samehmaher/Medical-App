@@ -1,4 +1,4 @@
-# medicalapp
+# Medical App
 
 A new Flutter application.
 
